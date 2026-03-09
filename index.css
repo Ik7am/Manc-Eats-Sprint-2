@@ -53,3 +53,17 @@
   color: #555;
   line-height: 1.4;
 }
+
+.welcome-box {
+  background: #f7f7f7;
+  padding: 1.5rem;
+  border-radius: 12px;
+  margin-top: 2rem;
+  line-height: 1.6;
+}
+
+body {
+  background: #a5c7dd;
+  font-family: Arial, sans-serif;
+}
+
